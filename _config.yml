@@ -1,0 +1,8 @@
+title: Juha Lindstedt
+description: 
+google_analytics: UA-54216829-2
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
